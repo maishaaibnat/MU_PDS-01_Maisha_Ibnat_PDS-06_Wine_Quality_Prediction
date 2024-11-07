@@ -2,6 +2,16 @@
 
 This project demonstrates how to predict the quality of wine based on various chemical properties using machine learning. The dataset used for this project is the **Wine Quality Dataset**, which contains attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, and others, with the target being the wine quality score.
 
+## Project Overview
+
+The objective of this project is to predict wine quality based on a set of chemical properties. This can help winemakers improve their products by understanding which chemical features influence quality the most.
+
+## Dataset
+
+The Wine Quality Dataset contains attributes like acidity, sulfur dioxide levels, pH, alcohol content, and others, which help predict the quality of wine. The dataset is available on the UCI Machine Learning Repository and includes both red and white wine datasets.
+
+- **Link to Dataset**: [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+
 ## Requirements
 
 The following libraries are required to run the project:
@@ -12,20 +22,6 @@ The following libraries are required to run the project:
 - **Numpy**
 - **Matplotlib**
 - **Seaborn**
-
-## Dataset
-
-The Wine Quality Dataset contains attributes like acidity, sulfur dioxide levels, pH, alcohol content, and others, which help predict the quality of wine. The dataset is available on the UCI Machine Learning Repository and includes both red and white wine datasets.
-
-- **Link to Dataset**: [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
-
-## Requirements
-
-- Python 3.x
-- Libraries: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
-
-
-
 
 ## Installation
 1.Clone the repository.
