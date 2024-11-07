@@ -28,7 +28,7 @@ The following libraries are required to run the project:
 
 
 ```bash
-     https://github.com/maishaaibnat/   MU_PDS-01_Maisha_Ibnat_PDS-06_Wine_Quality_Prediction.git
+     (https://github.com/maishaaibnat/MU_PDS-01_Maisha_Ibnat_PDS_ID-06_Wine_Quality_Prediction.git)
 ```
 
 2.Install the required libraries
